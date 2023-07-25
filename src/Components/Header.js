@@ -38,7 +38,9 @@ class Header extends Component {
             </li>
 
             <li>
-              <a href="#contact">Contact</a>
+              <a href="https://app.uniswap.org/#/swap?outputCurrency=0x96790eb54213F86d592Bb7180e40F6c62489472C">
+                Buy
+              </a>
             </li>
           </ul>
         </nav>
