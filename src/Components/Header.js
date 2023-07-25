@@ -39,7 +39,7 @@ class Header extends Component {
             </li>
 
             <li>
-              <a className="smoothscroll" href="#resume">
+              <a className="smoothscroll" href="https://t.me/xxxxstrewth">
                 Telegram
               </a>
             </li>
