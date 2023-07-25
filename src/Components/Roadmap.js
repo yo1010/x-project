@@ -25,7 +25,10 @@ export const Roadmap = () => {
           <li>
             <div class="date">Step 4</div>
             <div class="title">1k TG members</div>
-            <div class="descr">$2m mc. Bet on beer races every 1hr.</div>
+            <div class="descr">
+              $2m mc. Bet on beer races every 1hr. Get own Booze racing category
+              in CG.
+            </div>
           </li>
         </ul>
       </Slide>
