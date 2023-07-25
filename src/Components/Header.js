@@ -26,7 +26,7 @@ class Header extends Component {
             </li>
 
             <li>
-              <a href="#about">Twitter</a>
+              <a href="https://twitter.com/XXXXStrewth">Twitter</a>
             </li>
 
             <li>
