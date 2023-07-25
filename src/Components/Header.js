@@ -34,7 +34,9 @@ class Header extends Component {
             </li>
 
             <li>
-              <a href="#portfolio">Chart</a>
+              <a href="https://www.dextools.io/app/en/ether/pair-explorer/0xcce85D0D11816ACCfA7b71045D391f5b77483405">
+                Chart
+              </a>
             </li>
 
             <li>
