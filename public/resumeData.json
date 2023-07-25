@@ -4,14 +4,24 @@
     "description": "Made by aussies, for aussies",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
-        "className": "fa fa-telegram"
+        "name": "telegram",
+        "url": "",
+        "className": "fab fa-telegram-plane"
       },
       {
         "name": "twitter",
         "url": "http://twitter.com",
-        "className": "fa fa-twitter"
+        "className": "fab fa-twitter"
+      },
+      {
+        "name": "etherscan",
+        "url": "",
+        "className": "fab fa-ethereum"
+      },
+      {
+        "name": "mail",
+        "url": "",
+        "className": "fas fa-envelope"
       }
     ]
   }
