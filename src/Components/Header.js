@@ -54,10 +54,15 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <Fade bottom>
-              <img src={logo} style={{ maxWidth: "500px" }} alt="logo" />
+              <img
+                src={logo}
+                className="xxxx-logo"
+                style={{ maxWidth: "500px" }}
+                alt="logo"
+              />
             </Fade>
             <Fade bottom duration={1200}>
-              <h3>Queensland, strewth mate!</h3>
+              <h3>Queensland, Strewth mate!</h3>
             </Fade>
             <hr />
             {/* <Fade bottom duration={2000}>
