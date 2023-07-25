@@ -56,6 +56,9 @@ class Header extends Component {
             <Fade bottom duration={1200}>
               <h3>Queensland, Strewth mate!</h3>
             </Fade>
+            <Fade bottom duration={1200}>
+              <h3>Elon Musk loves X's, and we love beer!</h3>
+            </Fade>
             <hr />
             {/* <Fade bottom duration={2000}>
               <ul className="social">
