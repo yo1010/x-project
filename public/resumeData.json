@@ -5,17 +5,17 @@
     "social": [
       {
         "name": "telegram",
-        "url": "https://t.me/xyz",
+        "url": "https://t.me/XYZ_ether",
         "className": "fab fa-telegram-plane"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/xyz",
+        "url": "https://twitter.com/XYZ_ether",
         "className": "fab fa-twitter"
       },
       {
         "name": "etherscan",
-        "url": "https://etherscan.io/address/0x96790eb54213F86d592Bb7180e40F6c62489472C",
+        "url": "",
         "className": "fab fa-ethereum"
       },
       {
