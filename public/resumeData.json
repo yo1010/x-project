@@ -1,16 +1,16 @@
 {
   "main": {
-    "name": "XXXX",
-    "description": "Made by aussies, for aussies",
+    "name": "XYZ",
+    "description": "XYZ",
     "social": [
       {
         "name": "telegram",
-        "url": "https://t.me/xxxxstrewth",
+        "url": "https://t.me/xyz",
         "className": "fab fa-telegram-plane"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/XXXXStrewth",
+        "url": "https://twitter.com/xyz",
         "className": "fab fa-twitter"
       },
       {

@@ -2,13 +2,13 @@ import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
 
-import logo from "../xxxx.png";
+import logo from "../xyz.jpg";
 
 class Header extends Component {
   render() {
     return (
       <header id="home">
-        <ParticlesBg color="#FECF08" type="tadpole" bg={true} />
+        <ParticlesBg color="#FECF08" type="fountain" bg={true} />
 
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
@@ -19,18 +19,12 @@ class Header extends Component {
           </a>
 
           <ul id="nav" className="nav">
-            <li className="current">
-              <a className="smoothscroll" href="#home">
-                Home
-              </a>
+            <li>
+              <a href="https://twitter.com/xyz">Twitter</a>
             </li>
 
             <li>
-              <a href="https://twitter.com/XXXXStrewth">Twitter</a>
-            </li>
-
-            <li>
-              <a href="https://t.me/xxxxstrewth">Telegram</a>
+              <a href="https://t.me/xyz">Telegram</a>
             </li>
 
             <li>
@@ -52,18 +46,11 @@ class Header extends Component {
             <Fade bottom>
               <img
                 src={logo}
-                className="xxxx-logo"
-                style={{ maxWidth: "500px" }}
+                className="xyz-logo"
+                style={{ width: "700px" }}
                 alt="logo"
               />
             </Fade>
-            <Fade bottom duration={1200}>
-              <h3>Queensland, Strewth mate!</h3>
-            </Fade>
-            <Fade bottom duration={1200}>
-              <h3>Elon Musk loves X's, and we love beer!</h3>
-            </Fade>
-            <hr />
             {/* <Fade bottom duration={2000}>
               <ul className="social">
                 <a href={project} className="button btn project-btn">
@@ -76,12 +63,6 @@ class Header extends Component {
             </Fade> */}
           </div>
         </div>
-
-        <p className="scrolldown">
-          <a className="smoothscroll" href="#resume">
-            <i className="icon-down-circle"></i>
-          </a>
-        </p>
       </header>
     );
   }

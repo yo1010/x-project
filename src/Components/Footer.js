@@ -23,16 +23,10 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>&copy; Copyright 2023. XXXX.</li>
+                <li>&copy; Copyright 2023. XYZ.</li>
               </ul>
             </div>
           </Fade>
-
-          <div id="go-top">
-            <a className="smoothscroll" title="Back to Top" href="#home">
-              <i className="icon-up-open"></i>
-            </a>
-          </div>
         </div>
       </footer>
     );

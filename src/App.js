@@ -4,8 +4,6 @@ import $ from "jquery";
 import "./App.css";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
-import Resume from "./Components/Resume";
-import { Roadmap } from "./Components/Roadmap";
 
 class App extends Component {
   constructor(props) {
@@ -42,8 +40,6 @@ class App extends Component {
     return (
       <div className="App">
         <Header data={this.state.resumeData.main} />
-        <Resume data={this.state.resumeData.resume} />
-        <Roadmap />
         <Footer data={this.state.resumeData.main} />
       </div>
     );
