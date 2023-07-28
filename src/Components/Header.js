@@ -8,7 +8,7 @@ import logo from "../xyz.jpg";
 class Header extends Component {
   render() {
     return (
-      <header id="home">
+      <header id="home" style={{ marginTop: "-100px" }}>
         <div className="row banner">
           <div className="banner-text">
             <Fade top>
