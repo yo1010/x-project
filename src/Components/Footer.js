@@ -17,7 +17,7 @@ class Footer extends Component {
 
     return (
       <footer>
-        <div className="row">
+        <div className="row" style={{ position: "relative", zIndex: 5 }}>
           <Fade bottom>
             <div className="twelve columns">
               <ul className="social-links">{networks}</ul>
